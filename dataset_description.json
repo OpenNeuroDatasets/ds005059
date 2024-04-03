@@ -1,0 +1,9 @@
+{
+    "Name": "Paired Associates Learning: Memory for Word Pairs in Cued Recall",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haydn G. Herrema",
+        "Michael J. Kahana"
+    ]
+}
