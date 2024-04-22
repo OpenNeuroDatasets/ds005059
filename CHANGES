@@ -1,3 +1,5 @@
+1.0.5 2024-04-22
+  - Re-added collaborator acknowledgements and grant funding (was overwritten in previous release).
 1.0.4 2024-04-22
   - More informative event duration values for trial types with well defined durations.
 1.0.3 2024-04-17
